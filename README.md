@@ -6,7 +6,7 @@ Fast API for Software Development, AI, Machine Learning, Operations, Cloud, Dock
 .\myenv\Scripts\Activate.ps1
 ```
 
-### CURD
+### CURD Operation
 ```
 from fastapi import FastAPI
 from models import Product
