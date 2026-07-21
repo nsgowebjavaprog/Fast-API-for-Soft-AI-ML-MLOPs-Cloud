@@ -1,2 +1,8 @@
 # Fast-API-for-Soft-AI-ML-MLOPs-Cloud
 Fast API for Software Development, AI, Machine Learning, Operations, Cloud, Docker and More...
+
+
+```
+.\myenv\Scripts\Activate.ps1
+```
+
