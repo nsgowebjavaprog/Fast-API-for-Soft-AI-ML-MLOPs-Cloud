@@ -84,7 +84,7 @@ def updating_products(id: int, product: Product): # (using: datatype)
 
 ```
 
-## Delete
+## 4. Delete
 ```
 @app.delete("/product")
 def del_product(id: int):
